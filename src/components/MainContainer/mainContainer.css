@@ -1,0 +1,8 @@
+.main-container {
+    background-color: rgba(214, 253, 253, 0.721);
+    min-height: 60vh;
+    padding: 20px 6%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

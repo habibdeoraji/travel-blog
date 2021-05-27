@@ -1,0 +1,20 @@
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 15px 100px;
+    align-items: center
+}
+
+.web-name {
+    font-size: 24px;
+    font-weight: 600
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+    font-weight: 500
+}
